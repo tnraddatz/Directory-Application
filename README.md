@@ -1,6 +1,6 @@
 # Directory-Application
 
-The Directory Application will be used as a learning tool to develop my skills as a C#, .NET, and Angular 6.  The application will include the following technologies: 
+The Directory Application will be used as a learning tool to develop my C#, .NET, and Angular 6 skills.  The application will include the following technologies: 
 1) .NET Core API 
 2) Login Authentication
 2) JWT 
